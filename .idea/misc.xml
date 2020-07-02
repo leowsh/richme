@@ -21,11 +21,4 @@
     <option name="myConnectionType" value="CURRENT_VAGRANT" />
     <option name="myConnectionId" value="" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
-  </component>
-  <component name="VagrantProjectSettings">
-    <option name="instanceFolder" value="" />
-    <option name="provider" value="" />
-  </component>
 </project>
